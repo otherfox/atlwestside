@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?> 
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?> 
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"> 
+<channel> 
+<title>Atlanta Westside</title> 
+<link>http://atlantawestside.org/</link> 
+<description /> 
+<lastBuildDate>Sun, 27 Apr 2014 10:30:50 -0700</lastBuildDate> 
+<copyright /> 
+<language>en-US</language> 
+<generator>ExpressionEngine</generator> 
+<itunes:author>Walter Henegar</itunes:author> 
+<itunes:subtitle>aim for restoration</itunes:subtitle> 
+<itunes:summary>Sermons from Atlanta Westside Church. For additional resources, visit www.atlantawestside.org. Older sermons are also available by emailing the office at info@atlantawestside.org.</itunes:summary> 
+<itunes:keywords>Atlanta,Westside,Presbyterian</itunes:keywords> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:category text="Religion &amp; Spirituality"> 
+<itunes:category text="Christianity" /> 
+</itunes:category> 
+<itunes:explicit>no</itunes:explicit> 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/atlantawestside/HthM" /> 
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="atlantawestside/hthm" /> 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /> 
+<image> 
+<link>http://www.atlantawestside.org</link> 
+<url>http://atlantawestside.squarespace.com/storage/Atlanta-Westside-Podcast.jpg</url> 
+<title>Atlanta Westside - the Podcast</title> 
+</image> 
+<item> 
+<title>The Face of the Lord</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Jonah 1:1-8</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 27 Apr 2014 10:30:50 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We begin a new, brief 5-week series on the book of Jonah. Pastor Walter preaches from Jonah 1:1-8.</p>]]></description> 
+<itunes:summary>We begin a new, brief 5-week series on the book of Jonah. Pastor Walter preaches from Jonah 1:1-8.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140427-the-face-of-the-lord.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Just as He Told You</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 16:1-8</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 20 Apr 2014 10:30:22 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches an Easter sermon from Mark 16:1-8.</p>]]></description> 
+<itunes:summary>Pastor Walter preaches an Easter sermon from Mark 16:1-8.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140420-just-as-he-told-you.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Hosanna</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 11:1-11</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 13 Apr 2014 10:30:09 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>It's Palm Sunday, and we hit rewind in our series in the Gospel of Mark to consider Mark 11:1-11.</p>]]></description> 
+<itunes:summary>It's Palm Sunday, and we hit rewind in our series in the Gospel of Mark to consider Mark 11:1-11.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140413-hosanna.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Politics of Power</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 15:1-15</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 06 Apr 2014 10:30:52 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches from Mark 15:1-15.</p>]]></description> 
+<itunes:summary>Pastor Walter preaches from Mark 15:1-15.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140406-the-politics-of-power.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>One of Them</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 14:66-72</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 30 Mar 2014 10:30:56 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 14:66-72.</p>]]></description> 
+<itunes:summary>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 14:66-72.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140330-one-of-them.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>True Rebellion</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 14:43-65</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 23 Mar 2014 10:30:36 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 14:43-65.</p>]]></description> 
+<itunes:summary>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 14:43-65.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140323-true-rebellion.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Fully Human</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 14:26-42</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 16 Mar 2014 10:30:36 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our Pastoral Intern, Josh Lyons, preaches from Mark 14:26-42.&nbsp;</p>]]></description> 
+<itunes:summary>Our Pastoral Intern, Josh Lyons, preaches from Mark 14:26-42.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140316-fully-human.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Last Passover</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 14:10-25</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 09 Mar 2014 10:30:10 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches from Mark 14:10-25.</p>]]></description> 
+<itunes:summary>Pastor Walter preaches from Mark 14:10-25.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140309-the-last-passover.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>A Beautiful Thing</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 14:1-11</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 02 Mar 2014 10:30:05 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>This week's sermon by Pastor Walter comes from Mark 14:1-11.</p>]]></description> 
+<itunes:summary>This week's sermon by Pastor Walter comes from Mark 14:1-11.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140302-a-beautiful-thing.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Eyes Wide Open</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 13:1-37</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 23 Feb 2014 10:30:17 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter covers the entire chapter of Mark 13 this week as we continue our series in the Gospel of Mark.</p>]]></description> 
+<itunes:summary>Pastor Walter covers the entire chapter of Mark 13 this week as we continue our series in the Gospel of Mark.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140223-eyes-wide-open.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Known Only to God</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 12:38-44</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 16 Feb 2014 10:30:54 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[Our series in the Gospel of Mark continues with this sermon from Mark 12:38-44 by our Pastoral Intern, Josh Lyons.]]></description> 
+<itunes:summary>Our series in the Gospel of Mark continues with this sermon from Mark 12:38-44 by our Pastoral Intern, Josh Lyons.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140216-known-only-to-god.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>First of All</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 12:28-37</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 09 Feb 2014 10:30:51 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 12:28-37.</p>]]></description> 
+<itunes:summary>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 12:28-37.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140209-first-of-all.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>God of the Living</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 12:18-27</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 02 Feb 2014 10:30:00 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our series in the Gospel of Mark continues with Pastor Walter's sermon form Mark 12:18-27.</p>]]></description> 
+<itunes:summary>Our series in the Gospel of Mark continues with Pastor Walter's sermon form Mark 12:18-27.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140202-god-of-the-living.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Image is Everything</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 12:13-17</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 26 Jan 2014 10:30:02 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches this week from Mark 12:13-17.</p>]]></description> 
+<itunes:summary>Pastor Walter preaches this week from Mark 12:13-17.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140126-image-is-everything.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Gospel for Your Neighbor</title> 
+<dc:creator>Danny Iverson</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Acts 8:26-40</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Danny Iverson</itunes:author> 
+<pubDate>Sun, 12 Jan 2014 10:30:48 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Danny Iverson preaches for us this week from Acts 8:26-40. Danny and his family moved to Atlanta last year to join the church planting staff at Perimeter Church in Duluth.&nbsp;</p>]]></description> 
+<itunes:summary>Danny Iverson preaches for us this week from Acts 8:26-40. Danny and his family moved to Atlanta last year to join the church planting staff at Perimeter Church in Duluth.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140112-the-gospel-for-your-neighbor.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>This Changes Everything</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 11:12-33</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 05 Jan 2014 10:30:09 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We return this week to the Gospel of Mark - a series we started in September 2012. We plan to conclude the series right at Easter this year. This week's sermon is from Mark 11:12-33, with Pastor Walter preaching.</p>]]></description>
+<itunes:summary>We return this week to the Gospel of Mark - a series we started in September 2012. We plan to conclude the series right at Easter this year. This week's sermon is from Mark 11:12-33, with Pastor Walter preaching.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20140105-this-changes-everything.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Family Feud</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Philemon</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 29 Dec 2013 10:30:33 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our Pastoral Intern, Josh Lyons, preaches on the subject of reconciliation this week, from the New Testament book of Philemon.</p>]]></description> 
+<itunes:summary>Our Pastoral Intern, Josh Lyons, preaches on the subject of reconciliation this week, from the New Testament book of Philemon.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131229-family-feud.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Prince of Peace</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Isaiah 9:6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 22 Dec 2013 10:30:28 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our Advent series concludes with Pastor Walter's fourth message from Isaiah 9:6.&nbsp;</p>]]></description> 
+<itunes:summary>Our Advent series concludes with Pastor Walter's fourth message from Isaiah 9:6.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131222-prince-of-peace.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Everlasting Father</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Isaiah 9:6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 15 Dec 2013 10:30:24 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our Advent series this year is four sermons from the same verse - Isaiah 9:6. Pastor Walter preaches this week on the title, "Everlasting Father."</p>]]></description> 
+<itunes:summary>Our Advent series this year is four sermons from the same verse - Isaiah 9:6. Pastor Walter preaches this week on the title, "Everlasting Father."</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131215-everlasting-father.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Mighty God</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Isaiah 9:6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 08 Dec 2013 10:30:31 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches the second of four Advent sermons from the Isaiah 9:6 passage.</p>]]></description> 
+<itunes:summary>Pastor Walter preaches the second of four Advent sermons from the Isaiah 9:6 passage.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131208-mighty-god.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Wonderful Counselor</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Isaiah 9:6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 01 Dec 2013 10:30:24 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We're interrupting our series in the Gospel of Mark for the season of Advent. This first Sunday is the first of four messages that will be taken from Isaiah 9:6. "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."</p>]]></description> 
+<itunes:summary>We're interrupting our series in the Gospel of Mark for the season of Advent. This first Sunday is the first of four messages that will be taken from Isaiah 9:6. "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131201-wonderful-counselor.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>What to Expect When You're Expecting</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 10:46-52</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 24 Nov 2013 10:30:32 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 10:46-52.</p>]]></description> 
+<itunes:summary>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 10:46-52.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131124-what-to-expect-when-youre-expecting.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Me Too</title> 
+<dc:creator>Josh Lyon</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 10:32-45</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyon</itunes:author> 
+<pubDate>Sun, 17 Nov 2013 10:30:53 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our Pastoral Intern, Josh Lyons, continues in the Gospel of Mark with a sermon from Mark 10:32-45.</p>]]></description> 
+<itunes:summary>Our Pastoral Intern, Josh Lyons, continues in the Gospel of Mark with a sermon from Mark 10:32-45.</itunes:summary>
+<enclosure url="http://atlantawestside.org/content/audio/20131117-me-too.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Impossible</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 10:17-31</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 10 Nov 2013 09:30:26 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches from Mark 10:17-31.</p>]]></description> 
+<itunes:summary>Pastor Walter preaches from Mark 10:17-31.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131110-the-impossible.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Wisdom of Littleness</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 10:13-16</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 03 Nov 2013 10:30:46 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our series in the Gospel of Mark continues with Pastor Walter's sermon from Mark 10:13-16.</p>]]></description> 
+<itunes:summary>Our series in the Gospel of Mark continues with Pastor Walter's sermon from Mark 10:13-16.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131103-the-wisdom-of-littleness.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Lord of the Knot</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 10:1-12</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 27 Oct 2013 10:30:55 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our series in the Gospel of Mark continues this week with a sermon from Mark 10:1-12. One small note: when Pastor Walter references Genesis 17, the main character in that chapter was Abraham, not Moses.</p>]]></description> 
+<itunes:summary>Our series in the Gospel of Mark continues this week with a sermon from Mark 10:1-12. One small note: when Pastor Walter references Genesis 17, the main character in that chapter was Abraham, not Moses.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131027-lord-of-the-knot.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Scandal of Judgment</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 9:42-50</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 20 Oct 2013 10:30:09 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches from Mark 9:42-50.</p>]]></description> 
+<itunes:summary>Pastor Walter preaches from Mark 9:42-50.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131020-the-scandal-of-judgment.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Greatest</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 9:30-41</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 13 Oct 2013 10:30:33 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 9:30-41.</p>]]></description> 
+<itunes:summary>Pastor Walter continues our series in the Gospel of Mark with a sermon from Mark 9:30-41.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131013-the-greatest.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Anger</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Job 9-10</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 06 Oct 2013 10:30:49 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We preached a short series of sermons from the book of Job over the summer. This week, Adam Young returns to Job 9-10 and takes a look at the topic of anger.</p>]]></description> 
+<itunes:summary>We preached a short series of sermons from the book of Job over the summer. This week, Adam Young returns to Job 9-10 and takes a look at the topic of anger.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20131006-anger.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Help for Unbelief</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 9:14-29</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 29 Sep 2013 10:30:24 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches from Mark 9:14-29.&nbsp;</p>]]></description> 
+<itunes:summary>Pastor Walter preaches from Mark 9:14-29.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130929-help-for-unbelief.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Listen to Him</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 9:1-13</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 22 Sep 2013 10:30:56 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We first began looking at the Gospel of Mark last September. This week, Pastor Walter picks back up in the second half of the book, with a sermon from Mark 9:1-13.</p>]]></description> 
+<itunes:summary>We first began looking at the Gospel of Mark last September. This week, Pastor Walter picks back up in the second half of the book, with a sermon from Mark 9:1-13.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130922-listen-to-him.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Seeing the God Who Sees</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Genesis 20</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 15 Sep 2013 10:30:10 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We're excited to have Senior Pastor Walter Henegar back in the pulpit this week after a 4 month sabbatical. The text is Genesis 20.&nbsp;</p>]]></description> 
+<itunes:summary>We're excited to have Senior Pastor Walter Henegar back in the pulpit this week after a 4 month sabbatical. The text is Genesis 20.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130915-seeing-the-god-who-sees.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Apprehend</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Job 8-9</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 08 Sep 2013 10:30:19 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We wrap up our brief look at Job with Pastor Carson preaching from Job 8-9.</p>]]></description> 
+<itunes:summary>We wrap up our brief look at Job with Pastor Carson preaching from Job 8-9.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130908-apprehend.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Mercy</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Job 6-7</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 01 Sep 2013 10:30:33 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our summer series in Job continues with a sermon from Pastor Carson in Job 6-7.</p>]]></description> 
+<itunes:summary>Our summer series in Job continues with a sermon from Pastor Carson in Job 6-7.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130901-mercy.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Miserable Comforter</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Job 4-5</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 25 Aug 2013 09:30:45 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our series in Job continues with a sermon by our pastoral intern, Josh Lyons, from Job 4-5.</p>]]></description> 
+<itunes:summary>Our series in Job continues with a sermon by our pastoral intern, Josh Lyons, from Job 4-5.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130825-miserable-comforter.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Lament</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Job 3</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 18 Aug 2013 09:30:40 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Adam Young preaches this week from Job 3.&nbsp;</p>]]></description> 
+<itunes:summary>Rev. Adam Young preaches this week from Job 3.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130818-lament.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Ashes</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Job 2</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 11 Aug 2013 10:30:27 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Carson's second message in our brief Job series, from Job 2.</p>]]></description> 
+<itunes:summary>Pastor Carson's second message in our brief Job series, from Job 2.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130811-ashes.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Romans 4</title> 
+<dc:creator>Stephen Maginas</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Romans 4:13-25</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Stephen Maginas</itunes:author> 
+<pubDate>Sun, 04 Aug 2013 10:30:18 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Stephen Maginas, RUF Campus Minister at Emory University, preached for us a couple weeks ago from Romans 4. This week, he returned to finished the chapter, with this sermon from Romans 4:13-25</p>]]></description> 
+<itunes:summary>Rev. Stephen Maginas, RUF Campus Minister at Emory University, preached for us a couple weeks ago from Romans 4. This week, he returned to finished the chapter, with this sermon from Romans 4:13-25</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130804-romans-4.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Receive</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Job 1</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 28 Jul 2013 10:30:13 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We pivot this week to a new short series from the book of Job. Pastor Carson opens with a sermon on suffering from Job 1.</p>]]></description> 
+<itunes:summary>We pivot this week to a new short series from the book of Job. Pastor Carson opens with a sermon on suffering from Job 1.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130728-receive.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Psalm 51</title> 
+<dc:creator>Alex Watlington</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Psalm 51:1-12, 16-17</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Alex Watlington</itunes:author> 
+<pubDate>Sun, 21 Jul 2013 10:30:30 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Alex Watlington preaches for us this week from Psalm 51:1-12, 16-17. Alex is a graduate of Westminster Seminary, current RUF minister at Penn State, and a good friend of our own Pastor Carson.&nbsp;</p>]]></description> 
+<itunes:summary>Rev. Alex Watlington preaches for us this week from Psalm 51:1-12, 16-17. Alex is a graduate of Westminster Seminary, current RUF minister at Penn State, and a good friend of our own Pastor Carson.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130721-psalm-51.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Better Than I Deserve</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Joshua 9</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 14 Jul 2013 10:30:02 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Josh Lyons picks up our summer series in the book of Joshua with a sermon from Joshua 9.</p>]]></description> 
+<itunes:summary>Josh Lyons picks up our summer series in the book of Joshua with a sermon from Joshua 9.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130714-better-than-i-deserve.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Credit of Christ</title> 
+<dc:creator>Stephen Maginas</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Romans 4:1-12</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Stephen Maginas</itunes:author> 
+<pubDate>Sun, 07 Jul 2013 10:30:51 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Stephen Maginas joins us this week to preach from Romans 4:1-12. Stephen is the new RUF campus minister at Emory University, and will be back to preach at Westside once more next month.</p>]]></description> 
+<itunes:summary>Rev. Stephen Maginas joins us this week to preach from Romans 4:1-12. Stephen is the new RUF campus minister at Emory University, and will be back to preach at Westside once more next month.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130707-the-credit-of-christ.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>My Horn is Exalted</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>I Samuel 2:1-11</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 30 Jun 2013 10:30:14 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We take another break from our summer series in Joshua to consider a follow-up message to last week's sermon from I Samuel. Today's sermon from Associate Pastor, Carson Pittman, comes from I Samuel 2:1-11.</p>]]></description> 
+<itunes:summary>We take another break from our summer series in Joshua to consider a follow-up message to last week's sermon from I Samuel. Today's sermon from Associate Pastor, Carson Pittman, comes from I Samuel 2:1-11.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130630-my-horn-is-exalted.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Comfort for the Brokenhearted</title> 
+<dc:creator>Michael Phillips</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>I Samuel 1:1-20</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Michael Phillips</itunes:author> 
+<pubDate>Sun, 23 Jun 2013 10:30:47 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Michael Phillips is the new RUF minister at Georgia Tech, and was eager to fill the pulpit for us after just relocating to Atlanta this past week. He begins his ministry at Tech this fall, taking the place of Aaron Jeffrey. (RUF is the campus ministry of our denomination, the Presbyterian Church in America.) Michael preached from I Samuel 1:1-20.&nbsp;</p>]]></description> 
+<itunes:summary>Rev. Michael Phillips is the new RUF minister at Georgia Tech, and was eager to fill the pulpit for us after just relocating to Atlanta this past week. He begins his ministry at Tech this fall, taking the place of Aaron Jeffrey. (RUF is the campus ministry of our denomination, the Presbyterian Church in America.) Michael preached from I Samuel 1:1-20.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130623-comfort-for-the-brokenhearted.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Why Your Favoritism is Killing You and How to be Free</title> 
+<dc:creator>Zach Bradley</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>James 2:1-13</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Zach Bradley</itunes:author> 
+<pubDate>Sun, 16 Jun 2013 10:29:43 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We're excited to welcome Rev. Zach Bradley to Westside this week, filling the pulpit for us while Pastor Walter continues his summer sabbatical. Zach and his wife, Robin, are working to plant a <a href="http://brookhavenproject.com/welcome.htm">church</a> here in Brookhaven, and we've been eager hosts for their launch team occasionally over the last few months. The sermon comes from James 2:1-13.</p>]]></description> 
+<itunes:summary>We're excited to welcome Rev. Zach Bradley to Westside this week, filling the pulpit for us while Pastor Walter continues his summer sabbatical. Zach and his wife, Robin, are working to plant a church here in Brookhaven, and we've been eager hosts for their launch team occasionally over the last few months. The sermon comes from James 2:1-13.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130616-why-your-favoritism-is-killing-you-and-how-to-be-free.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Valley of Trouble or Door of Hope</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Joshua 7-8</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 09 Jun 2013 10:30:11 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We continue in the book of Joshua with a sermon from chapters 7 and 8.</p>]]></description> 
+<itunes:summary>We continue in the book of Joshua with a sermon from chapters 7 and 8.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130609-valley-of-trouble-or-door-of-hope.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Warfare</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Joshua 6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 02 Jun 2013 10:30:10 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our summer series in the book of Joshua continues with this sermon by Rev. Adam Young.</p>]]></description> 
+<itunes:summary>Our summer series in the book of Joshua continues with this sermon by Rev. Adam Young.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130602-warfare.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Party in the Promised Land</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Joshua 5</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 26 May 2013 10:30:53 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our pastoral intern, Josh Lyons, continues our series in the Old Testament book of Joshua.</p>]]></description> 
+<itunes:summary>Our pastoral intern, Josh Lyons, continues our series in the Old Testament book of Joshua.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130526-party-in-the-promised-land.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>What Do These Stones Mean to You?</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Joshua 3-4</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 19 May 2013 10:30:26 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our summer series continues with this sermon from Joshua chapters three and four.</p>]]></description> 
+<itunes:summary>Our summer series continues with this sermon from Joshua chapters three and four.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130519-what-do-these-stones-mean-to-you.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>God's Cutaway</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Joshua 2</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 12 May 2013 10:30:30 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Carson continues the launch of our summer series in the book of Joshua.</p>]]></description> 
+<itunes:summary>Pastor Carson continues the launch of our summer series in the book of Joshua.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130512-gods-cutaway.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Be Strong and Courageous</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Joshua 1</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 05 May 2013 10:30:11 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Associate Pastor Carson Pittman launches a new sermon series on the book of Joshua.&nbsp;</p>]]></description> 
+<itunes:summary>Associate Pastor Carson Pittman launches a new sermon series on the book of Joshua.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130505-be-strong-and-courageous.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Grace Abounding in Generosity</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>2 Corinthians 9:6-15</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 28 Apr 2013 10:30:09 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>In his last sermon before beginning a four-month Sabbatical, Pastor Walter preaches on Christian generosity, from 2 Corinthians 9:6-15.</p>]]></description> 
+<itunes:summary>In his last sermon before beginning a four-month Sabbatical, Pastor Walter preaches on Christian generosity, from 2 Corinthians 9:6-15.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130428-grace-abounding-in-generosity.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Why God Comes to Church</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Titus 2:11-15</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 21 Apr 2013 10:30:03 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Pastor Walter preaches the first of two topical sermons before he begins his sabbatical leave on May 1.&nbsp;</p>]]></description> 
+<itunes:summary>Pastor Walter preaches the first of two topical sermons before he begins his sabbatical leave on May 1.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130421-why-god-comes-to-church.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>People Like Trees Walking</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 8:22-38</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 14 Apr 2013 10:30:42 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We return to our series in the Gospel of Mark, with Pastor Walter preaching from chapter 8.&nbsp;</p>]]></description> 
+<itunes:summary>We return to our series in the Gospel of Mark, with Pastor Walter preaching from chapter 8.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130414-people-like-trees-walking.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Obey Your Thirst</title> 
+<dc:creator>Ronnie Perry</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>John 4:4-26</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Ronnie Perry</itunes:author> 
+<pubDate>Sun, 07 Apr 2013 10:30:36 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We were excited to welcome Rev. Ronnie Perry to Atlanta Westside this week. He's an Assistant Pastor at New City Fellowship in Chattanooga, TN, and preached from John 4.</p>]]></description> 
+<itunes:summary>We were excited to welcome Rev. Ronnie Perry to Atlanta Westside this week. He's an Assistant Pastor at New City Fellowship in Chattanooga, TN, and preached from John 4.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130407-obey-your-thirst.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Behold a Rattling</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ezekiel 37:1-14</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 31 Mar 2013 10:30:44 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>This week is a break from our study in Mark, as Pastor Walter preaches an Easter sermon from Ezekiel 37.</p>]]></description> 
+<itunes:summary>This week is a break from our study in Mark, as Pastor Walter preaches an Easter sermon from Ezekiel 37.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130331-behold-a-rattling.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Do It Again</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 8:1-21</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 24 Mar 2013 10:30:26 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our pastoral intern and current RTS student, Josh Lyons, preaches for us from the Gospel of Mark.</p>]]></description> 
+<itunes:summary>Our pastoral intern and current RTS student, Josh Lyons, preaches for us from the Gospel of Mark.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130324-do-it-again.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>He Does All Things Well</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 7:31-37</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 17 Mar 2013 10:30:42 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our Associate Pastor, Carson Pittman, continues our sermon series from the Gospel of Mark.&nbsp;</p>]]></description> 
+<itunes:summary>Our Associate Pastor, Carson Pittman, continues our sermon series from the Gospel of Mark.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130317-he-does-all-things-well.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>All Heaven Goes to Dogs</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 7:24-30</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 10 Mar 2013 10:30:43 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Henegar continues our series in the Gospel of Mark.&nbsp;</p>]]></description> 
+<itunes:summary>Rev. Henegar continues our series in the Gospel of Mark.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130310-all-heaven-goes-to-dogs.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Truth and Lies About the Heart</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 7:14-23</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 03 Mar 2013 10:30:46 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Henegar continues our series in the Gospel of Mark.</p>]]></description> 
+<itunes:summary>Rev. Henegar continues our series in the Gospel of Mark.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130303-truth-and-lies-about-the-heart.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Traditions of Men</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 7:1-13</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 24 Feb 2013 10:30:04 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Henegar continues our series in the Gospel of Mark.</p>]]></description> 
+<itunes:summary>Rev. Henegar continues our series in the Gospel of Mark.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130224-traditions-of-men.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Blessed Paradox</title> 
+<dc:creator>Darryl Ford</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Matthew 5:3-4</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Darryl Ford</itunes:author> 
+<pubDate>Sun, 17 Feb 2013 10:30:53 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Darryl Ford, a church planter and pastor working with Perimeter and All Souls Church in Decatur, filled the pulpit this week with a sermon from Matthew 5:3-4.</p>]]></description> 
+<itunes:summary>Darryl Ford, a church planter and pastor working with Perimeter and All Souls Church in Decatur, filled the pulpit this week with a sermon from Matthew 5:3-4.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130217-the-blessed-paradox.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Take Heart</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 6:45-56</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 10 Feb 2013 10:30:54 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Henegar continues our series in the Gospel of Mark.</p>]]></description> 
+<itunes:summary>Rev. Henegar continues our series in the Gospel of Mark.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130210-take-heart.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Abundance in Extremity</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 6:30-44</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 03 Feb 2013 10:29:46 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Henegar continues our sermon series from the Gospel of Mark.&nbsp;</p>]]></description> 
+<itunes:summary>Rev. Henegar continues our sermon series from the Gospel of Mark.&amp;nbsp;</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130203-abundance-in-extremity.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Greatest End</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 6:14-29</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 27 Jan 2013 10:29:21 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar continues our series in the Gospel of Mark.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar continues our series in the Gospel of Mark.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130127-the-greatest-end.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Rejection</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 6:1-13</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 20 Jan 2013 10:30:35 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar continues our series in the Gospel of Mark.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar continues our series in the Gospel of Mark.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130120-rejection.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Liberty for Captives</title> 
+<dc:creator>Randy Nabors</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Isaiah 61:1-11</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Randy Nabors</itunes:author> 
+<pubDate>Sun, 13 Jan 2013 10:30:43 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description /> 
+<itunes:summary /> 
+<enclosure url="http://atlantawestside.org/content/audio/20130113-liberty-for-captives.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Good News for Human Beings</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 5:21-43</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 06 Jan 2013 10:30:32 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman preaches from Mark 5:21-43.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman preaches from Mark 5:21-43.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20130106-good-news-for-human-beings.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Dignity Restored</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 5:1-20</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 30 Dec 2012 10:30:06 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our intern, and soon-to-be RTS graduate, Josh Lyons returns us to our series in the Gospel of Mark with this sermon from Mark 5:1-20.</p>]]></description> 
+<itunes:summary>Our intern, and soon-to-be RTS graduate, Josh Lyons returns us to our series in the Gospel of Mark with this sermon from Mark 5:1-20.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121230-dignity-restored.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Kid is My Shepherd</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Micah 5:1-5a</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 23 Dec 2012 10:30:52 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached this sermon from Micah 5:1-5a</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached this sermon from Micah 5:1-5a</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121223-the-kid-is-my-shepherd.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Rescue</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Exodus 2:23-25, 3:7-8a</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 16 Dec 2012 10:30:20 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Our Advent series continues with Rev. Adam Young preaching from Exodus 2:23-25, 3:7-8a.</p>]]></description> 
+<itunes:summary>Our Advent series continues with Rev. Adam Young preaching from Exodus 2:23-25, 3:7-8a.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121216-rescue.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Plan A</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Jeremiah 31:31-37</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 09 Dec 2012 10:30:36 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar continues our Advent series with a sermon from Jeremiah 31:31-37.</p>]]></description>
+<itunes:summary>Rev. Walter Henegar continues our Advent series with a sermon from Jeremiah 31:31-37.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121209-plan-a.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Unexpected Hope</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Isaiah 11:1-8</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 02 Dec 2012 10:30:42 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman begins a celebration of Advent with this sermon from Isaiah 11:1-8.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman begins a celebration of Advent with this sermon from Isaiah 11:1-8.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121202-unexpected-hope.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>More</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 4:21-34</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 18 Nov 2012 10:30:58 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached on Mark 4:21-34.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached on Mark 4:21-34.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121118-more.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Not Recorded: Greater Than Our Hearts</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 4:1-20</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 11 Nov 2012 10:30:24 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We apologize for our technical error, but the sermon from this past Sunday, November 11, wasn't recorded. It was a message from Rev. Carson Pittman on Mark 4:1-20.</p>]]></description> 
+<itunes:summary>We apologize for our technical error, but the sermon from this past Sunday, November 11, wasn't recorded. It was a message from Rev. Carson Pittman on Mark 4:1-20.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121111-not-recorded-greater-than-our-hearts.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Our Prophet, Priest and King</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 3:20-35</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 04 Nov 2012 10:30:52 -0800</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar continues our series in Mark with a sermon from Mark 3:20-35.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar continues our series in Mark with a sermon from Mark 3:20-35.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121104-our-prophet-priest-and-king.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Authority and Evil</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 3:7-20</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 28 Oct 2012 10:30:52 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Adam Young continued our series in the Gospel of Mark. He preached from Mark 3:7-20.</p>]]></description> 
+<itunes:summary>Rev. Adam Young continued our series in the Gospel of Mark. He preached from Mark 3:7-20.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121028-authority-and-evil.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Not Recorded: The Ruler of Rest</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 2:23-3:6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 21 Oct 2012 10:30:28 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Unfortunately we weren't able to get this week's message recorded. Rev. Walter Henegar preached from Mark 2:23-3:6.</p>]]></description> 
+<itunes:summary>Unfortunately we weren't able to get this week's message recorded. Rev. Walter Henegar preached from Mark 2:23-3:6.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121021-the-ruler-of-rest.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The New Ways of Jesusland</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 2:13-22</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 14 Oct 2012 10:30:48 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar continues our series in the Gospel of Mark with a sermon from Mark 2:13-22.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar continues our series in the Gospel of Mark with a sermon from Mark 2:13-22.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121014-the-new-ways-of-jesusland.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Which is Easier</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 2:1-12</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 07 Oct 2012 10:30:06 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman preached from Mark 2:1-12.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman preached from Mark 2:1-12.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20121007-which-is-easier.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Our Confidence in the Gospel</title> 
+<dc:creator>Lance Lewis</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Romans 1:16-17</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Lance Lewis</itunes:author> 
+<pubDate>Sun, 30 Sep 2012 10:30:03 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We were excited to welcome Rev. Lance Lewis to Atlanta this weeked. He's the pastor of Christ Redemption Fellowship in Philadelphia, PA, and preached Sunday from Romans 1:16-17.</p>]]></description> 
+<itunes:summary>We were excited to welcome Rev. Lance Lewis to Atlanta this weeked. He's the pastor of Christ Redemption Fellowship in Philadelphia, PA, and preached Sunday from Romans 1:16-17.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120930-our-confidence-in-the-gospel.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Between Desolate Places</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 1:35-45</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 23 Sep 2012 10:30:37 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar continues our series in Mark with a sermon from Mark 1:35-45.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar continues our series in Mark with a sermon from Mark 1:35-45.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120923-between-desolate-places.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Reverse Illusionist</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 1:21-34</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 16 Sep 2012 10:30:35 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached from Mark 1:21-34.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached from Mark 1:21-34.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120916-the-reverse-illusionist.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Release and Receive</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 1:12-20</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 09 Sep 2012 10:30:14 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached from Mark 1:12-20.</p>
+<p>Correction: The preacher, who is bad at math, described Jesus' 40 days in the wilderness as "seven weeks and a day." In point of fact, 40 days is only five weeks and five days. Please forgive him.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached from Mark 1:12-20. 
+Correction: The preacher, who is bad at math, described Jesus' 40 days in the wilderness as "seven weeks and a day." In point of fact, 40 days is only five weeks and five days. Please forgive him.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120909-release-and-receive.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Man to Reckon With</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Mark 1:1-11</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 02 Sep 2012 10:30:49 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar begins a new series on the Gospel of Mark, preaching from Mark 1:1-11.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar begins a new series on the Gospel of Mark, preaching from Mark 1:1-11.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120902-the-man-to-reckon-with.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Life in the Long Run</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 4:13-22</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 26 Aug 2012 10:30:45 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar concludes our summer series on Ruth with a look at Ruth 4:13-22.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar concludes our summer series on Ruth with a look at Ruth 4:13-22.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120826-life-in-the-long-run.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Life in Widescreen</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 4:1-12</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 19 Aug 2012 10:30:06 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar returns to the pulpit with a sermon from Ruth 4:1-12. We'll conclude our series in Ruth this Sunday, August 26, and then begin to look at the Gospel of Mark next month.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar returns to the pulpit with a sermon from Ruth 4:1-12. We'll conclude our series in Ruth this Sunday, August 26, and then begin to look at the Gospel of Mark next month.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120819-life-in-widescreen.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Ruth and Boaz</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 3</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 12 Aug 2012 10:30:34 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Adam Young preaches from Ruth 3.</p>]]></description> 
+<itunes:summary>Rev. Adam Young preaches from Ruth 3.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120812-ruth-and-boaz.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Pursuit of Happiness</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Luke 12:13-21</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 05 Aug 2012 10:30:10 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman preaches on coveting from Luke 12:13-21.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman preaches on coveting from Luke 12:13-21.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120805-the-pursuit-of-happiness.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Privileges and Immunities</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 2:17-23</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 29 Jul 2012 10:30:44 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman continues our series in Ruth, with a sermon from Ruth 2:17-23.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman continues our series in Ruth, with a sermon from Ruth 2:17-23.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120729-privileges-and-immunities.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Gift of Repentance</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Matthew 4:23-5:6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 22 Jul 2012 10:30:57 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>We take a one week detour in our study on Ruth, as Rev. Adam Young preaches from Matthew 4:23-5:6.</p>]]></description> 
+<itunes:summary>We take a one week detour in our study on Ruth, as Rev. Adam Young preaches from Matthew 4:23-5:6.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120722-the-gift-of-repentance.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Grace That Provides</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 2:7-16</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 15 Jul 2012 10:30:29 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman continues our look at the book of Ruth, with a message from Ruth 2:7-16.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman continues our look at the book of Ruth, with a message from Ruth 2:7-16.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120715-grace-that-provides.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Grace of Change</title> 
+<dc:creator>Josh Lyons</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 2:1-7</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Josh Lyons</itunes:author> 
+<pubDate>Sun, 08 Jul 2012 10:30:23 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Josh Lyons, our pastoral intern and current student at Reformed Theological Seminary, continues our series in Ruth. This message is from Ruth 2:1-7.</p>]]></description> 
+<itunes:summary>Josh Lyons, our pastoral intern and current student at Reformed Theological Seminary, continues our series in Ruth. This message is from Ruth 2:1-7.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120708-the-grace-of-change.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Naomi and Ruth: Heroes</title> 
+<dc:creator>Adam Young</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 1:7-22</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Adam Young</itunes:author> 
+<pubDate>Sun, 01 Jul 2012 10:30:06 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Adam Young filled the pulpit while our two pastors were away at a wedding in Baltimore. He continued our new series in Ruth, preaching from Ruth 1:7-22.</p>]]></description> 
+<itunes:summary>Rev. Adam Young filled the pulpit while our two pastors were away at a wedding in Baltimore. He continued our new series in Ruth, preaching from Ruth 1:7-22.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120701-naomi-and-ruth-heroes.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Once Upon A Time</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Ruth 1:1-6</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 24 Jun 2012 10:05:58 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman, Associate Pastor, launches a new series in the book of Ruth. This first sermon is from Ruth 1:1-6.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman, Associate Pastor, launches a new series in the book of Ruth. This first sermon is from Ruth 1:1-6.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120624-once-upon-a-time.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>A Quiet Life</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>I Thessalonians 4:9-12</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 17 Jun 2012 10:30:49 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached from I Thessalonians 4:9-12.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached from I Thessalonians 4:9-12.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120617-a-quiet-life.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Fullness of Joy</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Psalm 16</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 10 Jun 2012 10:30:28 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached from Psalm 16.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached from Psalm 16.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120610-fullness-of-joy.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Ambition to Serve</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Matthew 20:20-28</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 03 Jun 2012 10:30:01 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached from Matthew 20:20-28.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached from Matthew 20:20-28.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120603-ambition-to-serve.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>The Jesus Piece</title> 
+<dc:creator>Walter Henegar</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Matthew 16:13-28</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Walter Henegar</itunes:author> 
+<pubDate>Sun, 27 May 2012 10:30:08 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Walter Henegar preached from Matthew 16:13-28.</p>]]></description> 
+<itunes:summary>Rev. Walter Henegar preached from Matthew 16:13-28.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120527-the-jesus-piece.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+<item> 
+<title>Praying, Giving, and Fasting</title> 
+<dc:creator>Carson Pittman</dc:creator> 
+<itunes:duration /> 
+<itunes:subtitle>Matthew 6:1-18</itunes:subtitle> 
+<itunes:image href="http://atlantawestside.org/content/images/atlanta_westside_cover_300.png" /> 
+<itunes:author>Carson Pittman</itunes:author> 
+<pubDate>Sun, 20 May 2012 10:30:39 -0700</pubDate> 
+<link>http://atlantawestside.org/resources/</link> 
+<description><![CDATA[<p>Rev. Carson Pittman preached from Matthew 6:1-18.</p>]]></description> 
+<itunes:summary>Rev. Carson Pittman preached from Matthew 6:1-18.</itunes:summary> 
+<enclosure url="http://atlantawestside.org/content/audio/20120520-praying-giving-and-fasting.mp3" type="audio/mpeg" length="0" /> 
+</item> 
+</channel> 
+</rss>
